@@ -1,0 +1,11 @@
+{
+  "name": "root",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jose24san/learna.git"
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
